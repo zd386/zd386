@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · zd386</sub></p>
 <h1>mander</h1>
-<h2>Backend or systems engineer</h2>
+<h2>Learning robotics</h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Python</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Robotics sofware· Python<br>.C</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>2 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>14 contributions · 5 active days</p></td>
 </tr>
